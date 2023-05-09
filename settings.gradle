@@ -1,0 +1,5 @@
+rootProject.name = 'KafkaTutorial'
+include 'KafkaBasics'
+include 'KafkaProducerWikimedia'
+include 'KafkaConsumerOpenSearch'
+
